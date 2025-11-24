@@ -20,7 +20,7 @@ sections:
       - label: Start Redeeming Rewards
         altText: ''
         url: /
-        showIcon: false
+        showIcon: true
         icon: arrowRight
         iconPosition: right
         style: secondary
