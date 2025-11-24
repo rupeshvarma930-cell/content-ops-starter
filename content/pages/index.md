@@ -10,10 +10,12 @@ sections:
     subtitle: >-
       Redeem rewards for trying apps, playing short games, & completing quick
       surveys
-    text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+    text: |+
+
+      Join thousands of users who redeem rewards for completing simple tasks. 
+      No subscription, no purchase required — just try offers and redeem 
+      points for rewards.
+
     actions:
       - label: Get started
         altText: ''
