@@ -7,7 +7,9 @@ sections:
       text: ''
       color: text-dark
       type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: >-
+      Redeem rewards for trying apps, playing short games, & completing quick
+      surveys
     text: >
       A Netlify Create website is a git repo that you own. Every code commit is
       instantly reflected in the visual editor and since every visual edit is a
