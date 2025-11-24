@@ -17,7 +17,7 @@ sections:
       points for rewards.
 
     actions:
-      - label: Get started
+      - label: Start Redeeming Rewards
         altText: ''
         url: /
         showIcon: false
