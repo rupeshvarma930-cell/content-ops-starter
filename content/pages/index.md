@@ -37,7 +37,9 @@ sections:
       elementId: ''
       type: ImageBlock
     badge:
-      label: FREE CASH
+      label: |-
+        RewardCrew
+        Try apps · Play short games · Join surveys
       color: text-primary
       type: Badge
     elementId: ''
